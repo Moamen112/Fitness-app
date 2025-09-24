@@ -97,7 +97,3 @@ The project is organized into the following main directories:
   - `lib/`: Utility functions and libraries, including the Sanity client.
 - `sanity/`: The Sanity.io studio configuration and content schemas.
 - `store/`: Zustand store for global state management.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
